@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction" access="global">
+    <aura:attribute name="recordId" type="Id" />
+    <c:tLDR providedId="{!v.recordId}"/>    
+</aura:component>
