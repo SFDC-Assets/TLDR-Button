@@ -1,5 +1,7 @@
 # TL;DR
 
+# Update: This code now invokes GPT for summarization, as well as next steps and health scoring. Click here for details (https://salesforce-internal.slack.com/archives/C04DNJNAQTU/p1677265240822219) as well as the underlying Slack announcement post.
+
 *TL;DR Button! Summarizes content on any record on any field.* Fully declarative control - turnkey plug & play, drag this button on your page layout and specify the brevity you prefer. Default is it summarizes the text you’re reading in 5 sentences unless the text is small in nature, in which it will be 3 sentences max. You can override these defaults declaratively. Uses LexRank algorithm & general natural language facility to find you the most relevant sentences and create a TL;DR summary. If you’re not familiar with the lingo, TL;DR means Too Long; Didn’t Read and is used as a way to provide a summary. Below are details - with captured screenshots of it in action, how you can plug it in, and how it works. It’s also a practical way to quickly articulate an example of integration and how Heroku enriches Salesforce core.
 
 *Screenshots of this in action*
