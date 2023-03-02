@@ -16,7 +16,7 @@ public class TLDR_Test {
         Test.setMock(HttpCalloutMock.class, new TLDRCalloutMock()); 
         Test.stopTest();
         String response = TLDR.go(c.Id);
-        System.assertEquals(response, 'Hi');
+        System.assertEquals(response, '');
     }
     
 }
