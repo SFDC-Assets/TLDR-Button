@@ -8,4 +8,6 @@
 
 *Disclaimer:* code is as-is and is intended for learning/demonstration purposes only. It is not to be used for implementation.
 
-*Instructions:* Go to Setup >> Custom Metadata Types >> find one called TLDR. Now, click into it and click "Manage TLDR." From there, add the object and its field you want to summarize within a record. Popular examples are as follows: Object: Task / Field Name: Description. Object: Case / Field Name: Description. Object: EmailMessage / Field Name: TextBody
+*Instructions on setup (1-min)* 
+- (1) Go to Setup >> Custom Metadata Types >> find one called TLDR. Now, click into it and click "Manage TLDR." From there, add the object and its field you want to summarize within a record. Popular examples are as follows: Object: Task / Field Name: Description. Object: Case / Field Name: Description. Object: EmailMessage / Field Name: TextBody
+- (2) Setup >> Global Actions >> New Action. Call this "Summarize" or whatever you'd like. Action Type: Lightning Component. Lightning Component: pick "c:TLDR_go." Height: go with 250px. Label: "Summarize." Now, you're able to drag this on any record page via Page Layouts - look for "Summarize" under Lightning Actions and drag it over. And based on what you did in Custom Metadata Types, it will listen to the Object you dragged it on and summarize the field in there. Example --> Object: Task / Field Name: Description
