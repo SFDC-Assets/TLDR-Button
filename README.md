@@ -2,7 +2,7 @@
 
 *TL;DR Button! Summarizes content on any record on any field.* Fully declarative control - turnkey plug & play, drag this button on your page layout and you now have the ability to use GPT to help summarize data! If you’re not familiar with the lingo, TL;DR means Too Long; Didn’t Read and is used as a way to provide a summary. The summary also provides two other valuable things, like (1) Next Steps suggested and (2) Health Score for the engagement.
 
-*Two small mmanual steps before the install (1-min)*
+*Do these **two small steps BEFORE** the install (1-min)*
 - (1) Add a Remote Site Setting (Setup >> Remote Site Setting >> New). Call it GPT. And use this URL: http://gpt-sapi.us-e2.cloudhub.io. Click Save.
 - (2) From Setup go to Custom Metadata Types and create one called TLDR (API name has to be TLDR__mdt). Add these 2 fields: Field Name (API name has to be Field_Name__c) and Object Name (API name has to be Object_Name__c). Mark Object Name field as Unique Case Insensitive.
 
