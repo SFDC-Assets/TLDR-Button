@@ -1,6 +1,6 @@
 # TL;DR - Easily invokable experience that uses GPT for Summarization
 
-*TL;DR Button! Summarizes content on any record on any field.* Fully declarative control - turnkey plug & play, drag this button on your page layout and you now have the ability to use GPT to help summarize data! If you’re not familiar with the lingo, TL;DR means Too Long; Didn’t Read and is used as a way to provide a summary. The summary also provides two other valuable things, like (1) Next Steps suggested and (2) Health Score for the engagement.
+*TL;DR Button! Summarizes content on any record on any field.* Fully declarative control - turnkey plug & play, drag this button on your page layout and you now have the ability to use GPT to help summarize data! If you’re not familiar with the lingo, TL;DR means Too Long; Didn’t Read and is used as a way to provide a summary.
 
 *Do these **two small steps BEFORE** the install (1-min)*
 - (1) Add a Remote Site Setting (Setup >> Remote Site Setting >> New). Call it GPT. And use this URL: http://gpt-sapi.us-e2.cloudhub.io. Click Save.
