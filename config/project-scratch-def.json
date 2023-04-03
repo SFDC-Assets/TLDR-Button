@@ -2,6 +2,7 @@
   "orgName": "ChatGPT Integration Demo",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","API"],  
+  "hasSampleData": "true",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
