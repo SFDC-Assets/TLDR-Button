@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 43,
+  "serverMaxRevisionCounter": 45,
   "sourceMembers": {
     "CustomField__TLDR__mdt.Field_Name__c": {
       "serverRevisionCounter": 14,
@@ -15,7 +15,7 @@
     },
     "Profile__Admin": {
       "serverRevisionCounter": 13,
-      "lastRetrievedFromServer": null,
+      "lastRetrievedFromServer": 13,
       "memberType": "Profile",
       "isNameObsolete": false
     },
@@ -185,6 +185,12 @@
       "serverRevisionCounter": 18,
       "lastRetrievedFromServer": 18,
       "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomObject__Case": {
+      "serverRevisionCounter": 45,
+      "lastRetrievedFromServer": 45,
+      "memberType": "CustomObject",
       "isNameObsolete": false
     }
   }
