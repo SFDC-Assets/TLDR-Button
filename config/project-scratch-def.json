@@ -1,18 +1,13 @@
 {
-  "orgName": "aefendiyev company",
+  "orgName": "ChatGPT Integration Demo",
   "edition": "Developer",
-  "features": [],
+  "features": ["EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","API"],  
   "settings": {
     "lightningExperienceSettings": {
-        "enableS1DesktopEnabled": true
-    },
-    "securitySettings": {
-        "passwordPolicies": {
-            "enableSetPasswordInApi": true
-        }
+      "enableS1DesktopEnabled": true
     },
     "mobileSettings": {
-        "enableS1EncryptedStoragePref2": false
+      "enableS1EncryptedStoragePref2": false
     }
   }
 }
