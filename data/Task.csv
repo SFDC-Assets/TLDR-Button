@@ -1,5 +1,5 @@
 ﻿Id,WhoId,WhatId,Subject,ActivityDate,Status,Priority,IsHighPriority,OwnerId,Description,IsDeleted,AccountId,IsClosed,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,IsArchived,CallDurationInSeconds,CallType,CallDisposition,CallObject,ReminderDateTime,IsReminderSet,RecurrenceActivityId,IsRecurrence,RecurrenceStartDateOnly,RecurrenceEndDateOnly,RecurrenceTimeZoneSidKey,RecurrenceType,RecurrenceInterval,RecurrenceDayOfWeekMask,RecurrenceDayOfMonth,RecurrenceInstance,RecurrenceMonthOfYear,RecurrenceRegeneratedType,TaskSubtype
-00T5300000B4JAVEA3,0035300000ENofqAAD,50053000004bzFnAAI,Email,,In Progress,Normal,,005530000040em2AAA,"To: rachel@example.client 
+00TDC000009Cvm12AC,0035300000ENofqAAD,500DC000005dMOwYAM,Email,,In Progress,Normal,,005DC000003E79YYAS,"To: rachel@example.client 
 CC: 
 BCC: 
 Attachment: Overview.pptx
@@ -18,4 +18,13 @@ Please let me know if you have any questions. I look forward to speaking with yo
 
 Best Regards, 
 Kim Johnson
-kimjohnson@example.advisor",,0015300000MO103AAD,,2023-04-03T21:39:30.000+0000,005530000040em2AAA,2023-04-03T21:39:30.000+0000,005530000040em2AAA,2023-04-03T21:39:30.000+0000,,,,,,,,,,,,,,,,,,,,Task
+kimjohnson@example.advisor",,0015300000MO103AAD,,2023-04-04T16:44:05.000+0000,005DC000003E79YYAS,2023-04-04T16:44:05.000+0000,005DC000003E79YYAS,2023-04-04T16:44:05.000+0000,,,,,,,,,,,,,,,,,,,,Task
+00TDC000009CvpY2AS,0035300000ENofqAAD,500DC000005dMOwYAM,Send Quote,2023-04-04,Completed,High,1,005DC000003E79YYAS,"Business Overview: The borrower is a reputable real estate development firm with a successful track record of completing similar commercial development projects. The project involves the construction of a commercial building to be leased to a multinational corporation. The borrower has invested significant equity in the project, demonstrating their commitment to its success. The borrower has a strong understanding of the commercial real estate industry and their experience in the sector is extensive.
+
+Financial Analysis: The borrower has provided financial statements for the past three years, which have been reviewed by our team of financial analysts. The analysis shows that the borrower has a strong financial position with healthy cash flows, low debt-to-equity ratio, and a valuable asset base that includes completed commercial properties and land holdings. The borrower's investment in the project further demonstrates their financial strength and commitment to the success of the project.
+
+Collateral Analysis: The UP $5MM Commercial Loan is secured by the commercial property being developed, which has a high appraisal value and is expected to have a high occupancy rate due to its prime location. The property is in a desirable location for commercial real estate, with easy access to major highways and transportation hubs. The collateral is a valuable asset that can be sold or leased if the borrower defaults on the loan.
+
+Repayment Ability: The borrower has provided a detailed business plan that shows the expected cash flows from the project. Our financial analysts have reviewed the plan and found it to be reasonable and achievable. The borrower has also provided a detailed schedule of the project, which shows that the project is expected to be completed within the estimated time frame. The borrower has a proven track record of successfully completing similar projects, and the borrower's experience and expertise in the commercial real estate industry support their ability to generate cash flows and repay the loan.
+
+Conclusion: Based on the analysis of the borrower's business overview, financial position, collateral, and repayment ability, we have determined that the credit risk associated with the UP $5MM Commercial Loan is low. Therefore, we recommend approval of the loan.",,0015300000MO103AAD,1,2023-04-04T18:10:43.000+0000,005DC000003E79YYAS,2023-04-04T18:10:43.000+0000,005DC000003E79YYAS,2023-04-04T18:10:43.000+0000,,,,,,,,,,,,,,,,,,,,Task
