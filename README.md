@@ -15,3 +15,4 @@
 # Maintainers
 - Arastun Russ Efendiyev
 - Joel Davenport
+- Jon Zhou
