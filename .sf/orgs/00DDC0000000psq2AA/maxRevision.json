@@ -1,0 +1,191 @@
+{
+  "serverMaxRevisionCounter": 44,
+  "sourceMembers": {
+    "CustomField__TLDR__mdt.Field_Name__c": {
+      "serverRevisionCounter": 14,
+      "lastRetrievedFromServer": 14,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__TLDR__mdt.Object_Name__c": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__TLDR__mdt-TLDR Layout": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Case-Case Layout": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Task-Task Layout": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__TLDR__mdt": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "ApexClass__TLDR": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__TLDRCalloutMock": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__TLDR_Test": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "QuickAction__Summarize": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "QuickAction__TLDR": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__TLDR_go": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_go.cmp": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_goController.js": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_goHelper.js": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_go.css": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_go.auradoc": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_goRenderer.js": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_go.design": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__TLDR_go/TLDR_go.svg": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Case_Record_Page": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__tLDR": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__tLDR/tLDR.html": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__tLDR/tLDR.js-meta.xml": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__tLDR/tLDR.js": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "RemoteSiteSetting__GPT": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "RemoteSiteSetting",
+      "isNameObsolete": false
+    },
+    "RemoteSiteSetting__TLDR": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "RemoteSiteSetting",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__TLDR.Case": {
+      "serverRevisionCounter": 16,
+      "lastRetrievedFromServer": 16,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__TLDR.EmailMessage": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__TLDR.Task": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    }
+  }
+}
