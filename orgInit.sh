@@ -12,6 +12,3 @@ sfdx shane:user:password:set -g User -l User -p salesforce1
 
 # Open the org.
 sfdx force:org:open -p /lightning/o/Case/list
-
-
-
