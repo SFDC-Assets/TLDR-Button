@@ -12,6 +12,7 @@ public class TLDR {
         gen.writeEndObject();
         Http http = new Http();
         HttpRequest request = new HttpRequest();
+	request.setTimeout(30000);
         request.setEndpoint('http://gpt-sapi.us-e2.cloudhub.io/api/summarize');
         request.setMethod('POST');
         request.setHeader('Content-Type', 'application/json');
