@@ -11,6 +11,6 @@
 [And click here for clickpath experience!](https://salesforce.quip.com/iOaTA7jIaijb)
 
 # Maintainers
-- Arastun "Russ" Efendiyev
+- Arastun Efendiyev (Russ)
 - Joel Davenport
 - Jon Zhou
