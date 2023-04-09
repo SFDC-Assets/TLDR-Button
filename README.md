@@ -8,7 +8,7 @@
 # Spin up a demo / click-path
 [Click here for one click install!](https://www.platformdemos.com/s/demo/a0g4p00000924fMAAQ/gpt-in-salesforce)
 
-And click here for clickpath experience!](https://salesforce.quip.com/iOaTA7jIaijb)
+[And click here for clickpath experience!](https://salesforce.quip.com/iOaTA7jIaijb)
 
 # Maintainers
 - Arastun Russ Efendiyev
