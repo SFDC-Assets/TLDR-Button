@@ -16,6 +16,7 @@ public class TLDR {
         request.setMethod('POST');
         request.setHeader('Content-Type', 'application/json');
         request.setBody(gen.getAsString());
+	request.setTimeout(60000);
         HttpResponse response = http.send(request);       
         if(response.getStatusCode() == 200) {
             Map<String, Object> results = (Map<String, Object>) JSON.deserializeUntyped(response.getBody());
